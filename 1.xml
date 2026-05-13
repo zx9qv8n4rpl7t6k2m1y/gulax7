@@ -33,7 +33,7 @@
 </div>
 
 <script>
-const BUILD_URL = "https://cdn.jsdelivr.net/gh/gulamen/gulax7@main/Build";
+const BUILD_URL = "https://cdn.jsdelivr.net/gh/gulamen/gulax7@2ab30ac/Build";
 
 /* ============================================================
    GLOBALS — orijinal adlar korundu
